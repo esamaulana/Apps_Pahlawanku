@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Pahlawanku</string>
+    <string name="title_activity_abjad">abjadActivity</string>
 </resources>

@@ -7,6 +7,7 @@ import android.support.v4.app.Fragment;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.ImageButton;
 
 import mfajar8.wordpress.pahlawanku.R;
 
@@ -17,4 +18,5 @@ public class FragmentHome extends Fragment {
         final View myFragmentsView = inflater.inflate(R.layout.fragment_home, container, false);
         return myFragmentsView;
     }
+
 }

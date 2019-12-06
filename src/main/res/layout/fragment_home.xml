@@ -42,7 +42,7 @@
                         android:padding="10dp">
 
                         <ImageButton
-                            android:id="@+id/cariMakanan"
+                            android:id="@+id/abjad"
                             android:layout_width="85dp"
                             android:layout_height="85dp"
                             android:background="#FFFFFF"
@@ -155,7 +155,7 @@
                         android:padding="10dp">
 
                         <ImageButton
-                            android:id="@+id/catatanHarian"
+                            android:id="@+id/angka"
                             android:layout_width="85dp"
                             android:layout_height="85dp"
                             android:background="#FFFFFF"
@@ -192,7 +192,7 @@
                         android:padding="10dp">
 
                         <ImageButton
-                            android:id="@+id/KalkulatorIMT"
+                            android:id="@+id/namaHari"
                             android:layout_width="85dp"
                             android:layout_height="85dp"
                             android:background="#FFFFFF"
@@ -229,7 +229,7 @@
                         android:padding="5dp">
 
                         <ImageButton
-                            android:id="@+id/beritaKesehatan"
+                            android:id="@+id/namaBulan"
                             android:layout_width="85dp"
                             android:layout_height="85dp"
                             android:background="#FFFFFF"
@@ -268,7 +268,7 @@
                         android:padding="5dp">
 
                         <ImageButton
-                            android:id="@+id/kata_sifat"
+                            android:id="@+id/kata"
                             android:layout_width="85dp"
                             android:layout_height="85dp"
                             android:background="#FFFFFF"
